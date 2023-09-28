@@ -11,5 +11,12 @@ public int suma(){
     return suma;
 }
 
+// Daniel Boris Limachi Cuiza
+public int resta (int a, int b) {
+  int result;
+  result = a -b;
+  return result;
+}
+
 }
 
